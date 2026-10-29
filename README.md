@@ -11,7 +11,7 @@ learning tasks. Building a prediction model is not required.
 -   **File type:** CSV
 -   **Original dataset shape:** 1301 rows and 10 columns
 -   **Prepared dataset shape:** 1300 rows and 13 columns
--   **Dataset source:**Dataset source:** Original Titanic CSV file     used  for this activity (The Titanic dataset.csv)
+-   **Dataset source:** Original Titanic CSV file used for this activity (The Titanic dataset.csv)
 
 ## Work Completed
 
